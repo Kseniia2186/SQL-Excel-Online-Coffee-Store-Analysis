@@ -1,11 +1,11 @@
-# Coffee Sales Dashboard Project ☕
+# Coffee Sales Dashboard Project 
 
 This is a mini SQL and Excel project that simulates a small online coffee store.  
 It includes SQL database creation, data analysis, and a visual dashboard in Excel.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 1. **OnlineStore_SQL_Project.sql**  
    - Creates database `OnlineStore`
@@ -29,7 +29,7 @@ It includes SQL database creation, data analysis, and a visual dashboard in Exce
 
 ---
 
-## 💡 Skills Practiced
+##  Skills Practiced
 
 - SQL: database creation, `JOIN`, `GROUP BY`, `WHERE`, `UPDATE`
 - Excel: pivot tables, `VLOOKUP`, data formatting, charts
@@ -37,6 +37,6 @@ It includes SQL database creation, data analysis, and a visual dashboard in Exce
 
 ---
 
-## 📌 Notes
+##  Notes
 
 This is a beginner-friendly project, perfect for showcasing basic SQL and Excel skills in a job interview or portfolio.
